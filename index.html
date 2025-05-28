@@ -3,11 +3,31 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=search"
+    />
     <link href="./src/output.css" rel="stylesheet" />
   </head>
-  <body>
-    <h1 class="text-3xl font-bold underline font-poppins bg-pink-kb">
-      Hello world!
-    </h1>
+  <body class="bg-slate-200 text-gray-900 font-poppins">
+    <!-- Header -->
+    <nav class="bg-pink-kb w-full py-2">
+      <div class="mx-auto flex max-w-screen-sm">
+        <input
+          type="text"
+          name="search"
+          class="rounded-s-full px-4 py-2 w-full"
+          placeholder="Search..."
+        />
+        <button type="submit" class="bg-white rounded-e-full px-4 py-2">
+          <span class="material-symbols-outlined"> search </span>
+        </button>
+      </div>
+    </nav>
+    <!-- Header end -->
+
+    <!-- Main Content -->
+    <main class="mx-auto max-w-screen-sm bg-[#FFE7E7] min-h-screen"></main>
+    <!-- Main Content end -->
   </body>
 </html>
