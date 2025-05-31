@@ -633,6 +633,11 @@ nav{
   margin-bottom: 0.5rem;
 }
 
+.mx-4{
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
 .-mt-9{
   margin-top: -2.25rem;
 }
@@ -651,6 +656,14 @@ nav{
 
 .mt-4{
   margin-top: 1rem;
+}
+
+.mb-5{
+  margin-bottom: 1.25rem;
+}
+
+.mt-5{
+  margin-top: 1.25rem;
 }
 
 .flex{
@@ -934,6 +947,10 @@ nav{
 
 .p-8{
   padding: 2rem;
+}
+
+.p-4{
+  padding: 1rem;
 }
 
 .px-3{
