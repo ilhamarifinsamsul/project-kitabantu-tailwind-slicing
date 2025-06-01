@@ -638,6 +638,11 @@ nav{
   margin-bottom: 1.25rem;
 }
 
+.my-8{
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
 .-mt-9{
   margin-top: -2.25rem;
 }
@@ -664,6 +669,10 @@ nav{
 
 .mb-3{
   margin-bottom: 0.75rem;
+}
+
+.mt-5{
+  margin-top: 1.25rem;
 }
 
 .flex{
@@ -1000,6 +1009,10 @@ nav{
   padding-bottom: 0.75rem;
 }
 
+.pb-5{
+  padding-bottom: 1.25rem;
+}
+
 .text-center{
   text-align: center;
 }
@@ -1041,6 +1054,14 @@ nav{
 .text-4xl{
   font-size: 2.25rem;
   line-height: 2.5rem;
+}
+
+.text-\[50px\]{
+  font-size: 50px;
+}
+
+.text-\[50pt\]{
+  font-size: 50pt;
 }
 
 .font-bold{
