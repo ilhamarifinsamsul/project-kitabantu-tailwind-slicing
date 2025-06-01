@@ -755,6 +755,10 @@ nav{
   grid-template-columns: repeat(3, minmax(0, 1fr));
 }
 
+.flex-col{
+  flex-direction: column;
+}
+
 .flex-wrap{
   flex-wrap: wrap;
 }
@@ -789,6 +793,10 @@ nav{
 
 .gap-5{
   gap: 1.25rem;
+}
+
+.gap-16{
+  gap: 4rem;
 }
 
 .overflow-auto{
@@ -1001,6 +1009,16 @@ nav{
   padding-bottom: 1.25rem;
 }
 
+.px-14{
+  padding-left: 3.5rem;
+  padding-right: 3.5rem;
+}
+
+.py-3{
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+}
+
 .pb-10{
   padding-bottom: 2.5rem;
 }
@@ -1011,6 +1029,10 @@ nav{
 
 .pb-5{
   padding-bottom: 1.25rem;
+}
+
+.pt-10{
+  padding-top: 2.5rem;
 }
 
 .text-center{
