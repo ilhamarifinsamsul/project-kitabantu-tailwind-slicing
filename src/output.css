@@ -803,6 +803,10 @@ nav{
   overflow: auto;
 }
 
+.overflow-y-auto{
+  overflow-y: auto;
+}
+
 .text-nowrap{
   text-wrap: nowrap;
 }
@@ -1017,6 +1021,11 @@ nav{
 .py-3{
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
+}
+
+.py-10{
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
 }
 
 .pb-10{
