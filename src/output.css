@@ -643,6 +643,11 @@ nav{
   margin-bottom: 2rem;
 }
 
+.mx-7{
+  margin-left: 1.75rem;
+  margin-right: 1.75rem;
+}
+
 .-mt-9{
   margin-top: -2.25rem;
 }
@@ -673,6 +678,14 @@ nav{
 
 .mt-5{
   margin-top: 1.25rem;
+}
+
+.-mt-10{
+  margin-top: -2.5rem;
+}
+
+.mb-10{
+  margin-bottom: 2.5rem;
 }
 
 .flex{
@@ -840,6 +853,11 @@ nav{
 .rounded-t-\[50px\]{
   border-top-left-radius: 50px;
   border-top-right-radius: 50px;
+}
+
+.rounded-e-xl{
+  border-start-end-radius: 0.75rem;
+  border-end-end-radius: 0.75rem;
 }
 
 .border-\[1\.5px\]{
@@ -1028,6 +1046,11 @@ nav{
   padding-bottom: 2.5rem;
 }
 
+.py-8{
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
 .pb-10{
   padding-bottom: 2.5rem;
 }
@@ -1042,6 +1065,10 @@ nav{
 
 .pt-10{
   padding-top: 2.5rem;
+}
+
+.pb-20{
+  padding-bottom: 5rem;
 }
 
 .text-center{
