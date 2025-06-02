@@ -688,6 +688,10 @@ nav{
   margin-bottom: 2.5rem;
 }
 
+.mb-4{
+  margin-bottom: 1rem;
+}
+
 .flex{
   display: flex;
 }
